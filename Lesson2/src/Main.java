@@ -7,23 +7,8 @@ public class Main {
         //QuestFour.run();
         //QuestFive.run();
 
-        //int[] mas = {1,1,1,2,1};                          //для проверки
-        //System.out.println(QuestSix.checkBalance(mas));   //шестого задания
-
-        
-
-
+        int[] mas = {1,1,1,2,1};                          //для проверки
+        System.out.println(QuestSix.checkBalance(mas));   //шестого задания
 
     }
-
-
-
-
-
-
-
-
-
-
-
 }
