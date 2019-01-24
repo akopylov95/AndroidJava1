@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Employee[] empArray = new Employee[5]; // Вначале объявляем массив объектов
+        Employee[] empArray = new Employee[5];
 
         empArray[0] = new Employee("Копылов Александр Романович", "Инженер", "fio@ya.ru", "89036548594", 30000, 23);
         empArray[1] = new Employee("Большакова Нелли Викторовна","Журналист","bolsh@ya.ru","+7984569823", 35000, 19);

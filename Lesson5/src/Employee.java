@@ -18,7 +18,6 @@ public class Employee {
     }
 
     public void run(){
-
         System.out.println("ФИО: " + fio);
         System.out.println("Должность: " + position);
         System.out.println("Email: " + email);
