@@ -15,7 +15,7 @@ abstract public class Animal {
         } else {
             System.out.println("Run: true");
         }
-    };
+    }
 
     public void swim(float ogr, float slen){
         if (slen > ogr){
@@ -23,7 +23,7 @@ abstract public class Animal {
         } else {
             System.out.println("Swim: true");
         }
-    };
+    }
 
     public void jump(float ogr, float height){
         if (height > ogr){
@@ -31,6 +31,6 @@ abstract public class Animal {
         } else {
             System.out.println("Jump: true");
         }
-    };
+    }
 
 }
