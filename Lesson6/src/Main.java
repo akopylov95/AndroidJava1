@@ -2,8 +2,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        boolean serf;
-
         Cat cat1 = new Cat("Машка");
         cat1.info();
         cat1.run(150, 150);
